@@ -1,33 +1,46 @@
+# Albin Joseph
 
-👨‍💻 **Senior Backend Engineer | 🐍 Python Developer | 🌐 Azure AI Engineer Associate | 🕸️ Web Scraping Specialist | 🧠 NLP Enthusiast**
+**Senior Backend Engineer — Python · FastAPI · Production AI (RAG, Agents, LLM Evaluation)**
 
-## Introduction
+I build backend systems and the AI that runs on top of them.
 
-👋 Hello fellow coders! 🚀 I'm an experienced Python developer with a solid foundation in AI and web development. I'm deeply enthusiastic about Natural Language Processing, Computer Vision, and crafting efficient RESTful APIs. With extensive hands-on experience across various technologies, I bring a wealth of knowledge and skills to the forefront.
+Most of my work is the unglamorous part of GenAI: making RAG pipelines, agents,
+and LLM features work reliably, safely, and at a sensible cost — not just in a demo.
 
-I'm currently expanding my expertise in GraphQL, and I'm always eager to collaborate on exciting projects or answer any questions you might have. Let's create, innovate, and learn together! Your curiosity and questions are always welcome.
+**Currently:** an air-cargo analytics platform, where I designed a Text2SQL system
+that turns plain-English business questions into validated SQL, plus an evaluation
+harness that keeps it honest.
 
-## Skills
+---
 
-- 💡 **Programming Languages**: Python
-- 🌐 **Web Frameworks**: Django, FastAPI
-- 📡 **API Design**: RESTful, GraphQL
-- 🧠 **Natural Language Processing (NLP)**
-- 👁️ **Computer Vision**
-- 📊 **Data Collection**
-- 🌐 **Web Scraping**
-- 📁 **Databases**: MongoDB, PostgreSQL
-- 🐳 **Containerization**: Docker
-- ☁️ **Cloud Services**: Microsoft Azure
-- 🤖 **Chatbot Development**: Rasa
+### Tech I work with
 
+**Languages** Python, SQL
+**Backend** FastAPI, Django, REST, PostgreSQL, Redis, Celery, Docker
+**AI / LLM** RAG, AI agents (Google ADK, ReAct, MCP), LiteLLM, prompt engineering, Text2SQL
+**Evaluation** RAGAS, DeepEval, LLM-as-judge, golden sets, regression tests
+**Data** BigQuery, pgvector, FAISS
+**Cloud** GCP (Vertex AI), Azure (OpenAI)
 
-## Certifications
+---
 
-- 🎓 **Microsoft Azure AI Engineer Associate** - Certified by Microsoft for Azure AI development.
+### Projects
 
-## Contact
+**[PromptForge](https://github.com/Albin-Jo/PromptForge)** — open-source prompt
+management platform. Composable prompts backed by a real dependency graph (cycle
+detection, topological resolution), eval-on-change promotion gates, JWT/RBAC,
+~620 automated tests. FastAPI + PostgreSQL + React.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dev-albin-joseph/) for collaboration or questions related to my projects. I'm always open to new opportunities and discussions within the Python and AI community.
+---
 
-Let's code and innovate together! 🚀
+### Certifications
+
+Microsoft Certified: Azure AI Engineer Associate
+
+---
+
+### Contact
+
+Open to senior / lead backend and AI engineering roles — India, UAE, Qatar, or remote.
+
+📫 [LinkedIn](https://www.linkedin.com/in/dev-albin-joseph/) · albinjosephaj5@gmail.com
